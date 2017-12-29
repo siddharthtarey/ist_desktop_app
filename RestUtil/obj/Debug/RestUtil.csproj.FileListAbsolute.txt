@@ -1,0 +1,6 @@
+c:\users\sudhir\source\repos\Project_3\RestUtil\bin\Debug\RestUtil.dll
+c:\users\sudhir\source\repos\Project_3\RestUtil\bin\Debug\RestUtil.pdb
+c:\users\sudhir\source\repos\Project_3\RestUtil\obj\Debug\RestUtil.csprojResolveAssemblyReference.cache
+c:\users\sudhir\source\repos\Project_3\RestUtil\obj\Debug\RestUtil.csproj.CoreCompileInputs.cache
+c:\users\sudhir\source\repos\Project_3\RestUtil\obj\Debug\RestUtil.dll
+c:\users\sudhir\source\repos\Project_3\RestUtil\obj\Debug\RestUtil.pdb
